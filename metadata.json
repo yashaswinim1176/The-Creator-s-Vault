@@ -1,0 +1,6 @@
+{
+  "name": "VAULT: The Creator's Vault",
+  "description": "A digital security SaaS web app protecting creators from digital asset piracy.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
